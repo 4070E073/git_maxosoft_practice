@@ -1,6 +1,6 @@
 ## 進度一
-to do list
+環境建置
 ## 進度二
-計數器
+to do list
 ## 進度三
-父組件、子組件
+chart
